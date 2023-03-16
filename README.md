@@ -32,8 +32,9 @@ You can see the description of the implementation method in the following file:
 
 ## Results 
 
-![App Screenshot](https://github.com/kiananvari/LSTM-price-prediction/raw/main/Result.png)
+![App Screenshot](https://github.com/kiananvari/Handwritten-Equation-Solver-Neural-Network/raw/main/Results/1.png)
 
+![App Screenshot](https://github.com/kiananvari/Handwritten-Equation-Solver-Neural-Network/raw/main/Results/2.png)
 
 ## Contributing
 
