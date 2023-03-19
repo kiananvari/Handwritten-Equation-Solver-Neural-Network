@@ -28,7 +28,7 @@ For more information about this project, please read the documentation file.
 ## Documentation
 
 You can see the description of the implementation method in the following file:  
-[Click Here]([https://linktodocumentation](https://github.com/kiananvari/Handwritten-Equation-Solver-Neural-Network/raw/main/Documentation.pdf))
+[Click Here](https://linktodocumentation](https://github.com/kiananvari/Handwritten-Equation-Solver-Neural-Network/raw/main/Documentation.pdf)
 
 ## Results 
 
