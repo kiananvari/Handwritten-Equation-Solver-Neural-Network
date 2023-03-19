@@ -30,6 +30,10 @@ For more information about this project, please read the documentation file.
 You can see the description of the implementation method in the following file:  
 [Click Here](https://linktodocumentation](https://github.com/kiananvari/Handwritten-Equation-Solver-Neural-Network/raw/main/Documentation.pdf)
 
+You can see the description of the implementation method in the following file:  
+[Click Here](https://linktodocumentation](https://github.com/kiananvari/Handwritten-Equation-Solver-Neural-Network/raw/main/Documentation.pdf)
+
+
 ## Results 
 
 ![App Screenshot](https://github.com/kiananvari/Handwritten-Equation-Solver-Neural-Network/raw/main/Results/1.png)
