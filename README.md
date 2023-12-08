@@ -1,7 +1,5 @@
 
-# Project Title
-
-Equation Solver!
+# Equation Solver!
 
 Implementing a neural network that recognizes handwritten equations on paper and solves them
 
